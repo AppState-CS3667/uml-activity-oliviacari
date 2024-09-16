@@ -1,0 +1,12 @@
+1. The Primary Actors are the Shoppers, Minor and Adult
+2. The Secondary Actor is the Employee
+3. The type of word that describes the use case is: Verb
+4. The type of word that describes the actors is: Noun
+5. The primary actors are primary because they are instigating an action 
+so they're on the left and they go first
+6. The secondary actors are secondary because they are reacting, 
+so they're on the right and they come "second"
+7. Verify ID extends Scan Items, because it has to be checked by the Employee in order for Scan Items to happen 
+if the Shopper is trying to buy something that has an age requirement on it. 
+8. Scan Items includes Check Cart for Items because the Shopper wants to make sure they're getting everything 
+and not forgetting something at the self checkout, and the employee wants to make sure the shopper isn't stealing. 
